@@ -1,1 +1,1 @@
-![ProtoOmic Chatbot Interface](screenshot.png) 
+![ProtoOmic Chatbot Interface](IMG_1706.png) 
